@@ -2,7 +2,7 @@
 
 simple illustration of this opening issue: https://github.com/guzzle/guzzle/issues/478
 
-run `composer install` frist
+run `composer install` first
 
 ```bash
 > composer install
