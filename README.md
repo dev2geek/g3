@@ -1,3 +1,9 @@
 ## guzzle issue
 
-simple illustration of this open issue: https://github.com/guzzle/guzzle/issues/478
+simple illustration of this opening issue: https://github.com/guzzle/guzzle/issues/478
+
+run `composer install` frist
+
+```bash
+> composer install
+```
